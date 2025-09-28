@@ -182,6 +182,7 @@ if __name__ == "__main__":
         if keypress == ord("q"):
             break
 
-# free up memory
+
+
 camera.release()
 cv2.destroyAllWindows()
