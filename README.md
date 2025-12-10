@@ -97,6 +97,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 🙋‍♂️ Author
 
-Prince
+**Prince**
 Feel free to connect on [LinkedIn]https://www.linkedin.com/in/iamkishoreprince or reach out for collaboration!
 
